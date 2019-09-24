@@ -5,6 +5,8 @@
     border: 1.5px solid rgb(206, 206, 206);
     width: 221px;
     height: 50px;
+    
+    
 }
 button {
     margin-right: 0.2em;
@@ -29,4 +31,8 @@ main {
 }
 body{
     background-color: rgb(235, 235, 235)
+}
+
+button:last-child{
+    width:98%;
 }
